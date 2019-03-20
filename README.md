@@ -1,7 +1,7 @@
 # Learn Highest Talent Rank mod-azerothcore
 Learn Highest Talent Rank for AzerothCore 3.3.5
 
-Players will automatically learn the highest talent rank when they click on a talent spell.
+Players will automatically learn the highest talent rank when they click on a talent spell.  
 Intended for "instant level 80" private servers.
 
 # Screenshot
