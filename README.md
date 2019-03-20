@@ -1,7 +1,7 @@
 # Learn Highest Talent Rank mod-azerothcore
 Learn Highest Talent Rank for AzerothCore 3.3.5
 
-![](https://i.ibb.co/27WPR5j/Wo-WScrn-Shot-021219-000220.jpg)
+![](https://i.ibb.co/gM45ymf/Wo-WScrn-Shot-032019-003120-1.jpg)
 
 Video Showcase:
-https://streamable.com/yxv1m
+https://streamable.com/m3cmz
